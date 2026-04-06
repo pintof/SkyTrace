@@ -177,6 +177,9 @@ Optional `.env` values:
 - `TELEGRAM_CHAT_ID`
 - `TELEGRAM_ALERT_COOLDOWN_MS` defaults to `60000`
 
+### `OR just unzip the existing password protected .env.zip`
+#### `(password is your company name, no spaces, no capitals)`
+
 Install and run:
 
 ```bash
